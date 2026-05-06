@@ -3,6 +3,7 @@
 [![Live API](https://img.shields.io/badge/Live%20API-online-brightgreen?style=flat-square)](https://style-rule-evaluator.onrender.com/docs)
 [![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
 
 Evaluates user profiles against style rules and generates fashion recommendations.
 
