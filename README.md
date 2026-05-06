@@ -1,6 +1,6 @@
 # Style Rule Evaluator API
 
-[![Live API](https://img.shields.io/badge/Live%20API-online-brightgreen?style=flat-square)](https://your-api-url.com/docs)
+[![Live API](https://img.shields.io/badge/Live%20API-online-brightgreen?style=flat-square)](https://style-rule-evaluator.onrender.com/docs)
 
 Evaluates user profiles against style rules and generates fashion recommendations.
 
